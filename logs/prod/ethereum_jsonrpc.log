@@ -1,0 +1,717 @@
+2023-03-22T04:25:46.158 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13D37"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x138F3"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x6e13e538c55ba62088c67000b5f8c772e6be9e9c","0x609"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x13D76"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x341535c26ec60b05132ae44c9f65d761865541e8","0xF231"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xa67a999d2d1d6e8638e9183f9d920537a6fd2e55","
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:25:46.158 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x2C"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x13AA4"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x13C34"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13774"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x1391B"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:25:46.158 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x13B0A"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13D87"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x6e13e538c55ba62088c67000b5f8c772e6be9e9c","0x20C6"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x101"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13BDE"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x6e13e538c55ba62088c67000b5f8c772e6be9e9c","
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:25:46.159 application=ethereum_jsonrpc fetcher=block_realtime block_number=243 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xF3",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:25:46.176 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x72E"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x13BAB"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x46cb69116a21d8777ea050e0265abaf45e61a9fb","0x1289"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xa67a999d2d1d6e8638e9183f9d920537a6fd2e55","0x138CF"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xa67a999d2d1d6e8638e9183f9d920537a6fd2e55","0x13D07"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:10.990 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x46cb69116a21d8777ea050e0265abaf45e61a9fb","0x156B"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x135E8"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x13CAF"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0xF0FF"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x14235"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb",
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:12.483 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:13.096 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x1385F"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x14FB"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x6e13e538c55ba62088c67000b5f8c772e6be9e9c","0x1662"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x12641"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x13AC9"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539",
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:13.980 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x46cb69116a21d8777ea050e0265abaf45e61a9fb","0x1E03"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x13897"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13850"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x341535c26ec60b05132ae44c9f65d761865541e8","0xF558"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x138F6"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x6e13e538c55ba62088c67000b5f8c772e6be9e9c",
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:29.572 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=229 last_block_number=229 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xE5",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:30.512 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=228 last_block_number=228 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xE4",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:30.726 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x13D1F"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x213"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x417"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x13CD2"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x13C8C"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:30.836 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=249 last_block_number=249 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xF9",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:32.033 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x1390E"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x46cb69116a21d8777ea050e0265abaf45e61a9fb","0x126BD"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x1404B"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x1472"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13873"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xa67a999d2d1d6e8638e9183f9d920537a6fd2e55"
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:32.640 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=239 last_block_number=239 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xEF",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:33.466 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=237 last_block_number=237 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xED",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:33.701 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=260 last_block_number=260 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x104",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:33.731 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=231 last_block_number=231 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xE7",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:34.186 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x102",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:35.236 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=234 last_block_number=234 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xEA",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:36.006 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=258 last_block_number=258 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x102",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:38.206 application=ethereum_jsonrpc fetcher=block_catchup first_block_number=236 last_block_number=236 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0xEC",true]}]
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:27:54.788 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:28:16.933 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xa67a999d2d1d6e8638e9183f9d920537a6fd2e55","0x13BC7"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13AA8"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x126AE"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x13D26"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x13907"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T04:28:38.189 application=ethereum_jsonrpc fetcher=coin_balance count=500 [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: [{"id":16,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xa67a999d2d1d6e8638e9183f9d920537a6fd2e55","0x13AB4"]},{"id":226,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x0462f47772a863d446252c896b3803bf7f6e24cb","0x19AC"]},{"id":164,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xc42da4330069b89bf5445e7b0750598e98d9d2e0","0x1E9F"]},{"id":447,"jsonrpc":"2.0","method":"eth_getBalance","params":["0xd3eaf6c450f225c775a9d0b71421ec62491da539","0x13AE2"]},{"id":294,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x535ed4bcc28065c6d4d21a8c41480a46b167c1eb","0x13AE9"]},{"id":267,"jsonrpc":"2.0","method":"eth_getBalance","params":["0x46cb69116a21d8777ea050e0265abaf45e61a9fb",
+
+  response:
+
+    status code: 403
+
+    body: invalid host specified
+
+
+2023-03-22T16:40:12.194 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-22T23:50:30.052 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-23T01:37:59.978 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-26T01:47:09.918 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-26T04:55:34.711 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-26T14:51:07.613 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-27T15:31:56.143 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-27T19:04:47.627 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-27T23:39:40.116 application=ethereum_jsonrpc fetcher=block_realtime block_number=156624 [error] 413 Request Entity Too Large returned from single request batch.  Cannot shrink batch further.
+2023-03-27T23:39:40.314 application=ethereum_jsonrpc fetcher=block_realtime block_number=156621 [error] 413 Request Entity Too Large returned from single request batch.  Cannot shrink batch further.
+2023-03-27T23:39:40.314 application=ethereum_jsonrpc fetcher=block_realtime block_number=156622 [error] 413 Request Entity Too Large returned from single request batch.  Cannot shrink batch further.
+2023-03-27T23:39:40.315 application=ethereum_jsonrpc fetcher=block_realtime block_number=156623 [error] 413 Request Entity Too Large returned from single request batch.  Cannot shrink batch further.
+2023-03-27T23:55:42.604 application=ethereum_jsonrpc [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["0x26489",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-28T04:01:18.604 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-28T07:08:16.128 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-28T08:49:22.780 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-28T11:26:40.925 application=ethereum_jsonrpc fetcher=block_realtime block_number=159642 [error] 413 Request Entity Too Large returned from single request batch.  Cannot shrink batch further.
+2023-03-28T11:34:22.276 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-28T11:50:24.489 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-28T12:09:42.617 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
+2023-03-31T06:08:08.902 application=ethereum_jsonrpc fetcher=block_realtime block_number=260509 [error] 413 Request Entity Too Large returned from single request batch.  Cannot shrink batch further.
+2023-03-31T06:10:19.210 application=ethereum_jsonrpc fetcher=block_realtime [error] Failed to decode Ethereum JSONRPC response:
+
+  request:
+
+    url: http://127.0.0.1:5000/
+
+    body: {"id":0,"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest",false]}
+
+  response:
+
+    status code: 504
+
+    body: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+
