@@ -1,0 +1,10 @@
+{application,ex_rlp,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"ex_rlp"},
+              {modules,['Elixir.ExRLP','Elixir.ExRLP.Decode',
+                        'Elixir.ExRLP.DecodeError','Elixir.ExRLP.DecodeItem',
+                        'Elixir.ExRLP.Encode','Elixir.ExRLP.Encode.BitString',
+                        'Elixir.ExRLP.Encode.Integer',
+                        'Elixir.ExRLP.Encode.List','Elixir.ExRLP.Utils']},
+              {registered,[]},
+              {vsn,"0.6.0"}]}.

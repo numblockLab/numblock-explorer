@@ -1,0 +1,150 @@
+11:59:37.517 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+11:59:37.528 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+12:45:26.430 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+12:45:26.434 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+12:45:26.445 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+23:49:27.439 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+23:49:27.455 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+23:49:27.475 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+04:11:02.445 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+04:11:02.452 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+04:11:02.454 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+14:54:01.949 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+14:54:01.961 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+14:54:01.996 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+10:49:43.457 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+10:49:43.469 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+10:49:43.479 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+14:45:09.678 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+14:45:09.690 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+14:45:09.707 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+03:43:18.410 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+03:43:18.413 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+03:43:18.417 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+00:34:08.749 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+00:34:08.752 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+00:34:08.760 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+22:57:14.863 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+22:57:14.866 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+22:57:14.872 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+03:27:36.501 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+03:27:36.507 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+03:27:36.512 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+03:28:02.515 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+03:28:02.537 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+03:28:02.540 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+02:58:24.755 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+02:58:24.758 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+02:58:24.768 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+23:26:46.825 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+23:26:46.830 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+23:26:46.848 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+06:46:42.118 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+06:46:42.132 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+06:46:42.158 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+10:44:47.321 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+10:44:47.326 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+10:44:47.330 [debug] <Token contract hash: 0x2AB29D69bc9fCF6101fC400B300845228c84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
+13:36:26.931 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 2
+13:36:26.944 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 1
+13:36:26.951 [debug] <Token contract hash: 0x2AB29D69BC9FCF6101FC400B300845228C84383B> error while fetching metadata: 
+function: 18160ddd - error: (-32600) execution was reverted 
+Retries left: 0
